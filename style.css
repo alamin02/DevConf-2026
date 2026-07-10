@@ -339,13 +339,8 @@ button{
      display: block;
     margin: 30px auto 0;
     color: white;
-    border-color: none;
-   
+    border-color: none; 
 }
-
-
-
-
 .outline-btn{
     background:#fff;
     color:#2563eb;
